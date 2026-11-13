@@ -5,8 +5,8 @@
 name: 🚀 CI with Reusable Workflows
 
 on:
-  #push:
-    #branches: [ main ]
+  push:
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
